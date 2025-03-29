@@ -44,5 +44,5 @@ var objeto = {
 var autos = ["BMW", "Audi", "Volvo"];
 var Y = null;
 
-console.log(objeto[nombre])
+console.log(objeto["nombre"])
 console.log(objeto.nombre)
